@@ -31,8 +31,8 @@ The goal is to connect measured device-level switching behavior with machine-lea
 neuromorphic-device-ml/
 ├── data/
 │   └── raw/
-│       ├── S_13_P_D_C_final_50_cycle.csv
-│       └── LTP_LTD_CsPbI3_perovskite.xlsx
+│       ├── data.csv
+│       └── data.xlsx
 ├── outputs/
 │   ├── cycle_analysis/
 │   └── device_fit_mnist/
