@@ -25,6 +25,8 @@ This repository contains two main analysis pipelines:
 
 The goal is to connect measured device-level switching behavior with machine-learning performance in a reproducible Python workflow.
 
+** Note that input data is not included.
+
 ## Repository Structure
 
 ```text
